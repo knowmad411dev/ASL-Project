@@ -1,0 +1,29 @@
+# Virtual environments
+.venv/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribution / packaging
+.Python
+env/
+build/
+dist/
+*.egg-info/
+*.whl
+
+# Environment variables and sensitive files
+.env
+
+# IDE/Editor-specific files
+.vscode/
+.idea/
+*.sublime-*
+
+# Logs and temporary files
+*.log
+*.bak
+*.tmp
+*.swp
